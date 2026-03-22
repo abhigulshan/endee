@@ -1,6 +1,6 @@
 import requests
 
-GROK_API_KEY = "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"
+GROK_API_KEY = "gsk_ZwYRitVAEcSFFXZgfhSRaC5tWGdyb3FYqbgAb6CAm68JvyG20ZlZf3AIXYYYXX"
 
 def generate_answer(query):
     url = "https://api.x.ai/v1/chat/completions"
